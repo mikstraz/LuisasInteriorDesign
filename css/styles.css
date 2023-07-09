@@ -664,7 +664,7 @@ progress {
 .container-sm {
   --bs-gutter-x: 1.5rem;
   --bs-gutter-y: 0;
-  width: 50%;
+  width: 85%;
   padding-right: calc(var(--bs-gutter-x) * 1.5);
   padding-left: calc(var(--bs-gutter-x) * 1.5);
   margin-right: auto;
@@ -11207,7 +11207,7 @@ header.masthead .masthead-heading {
   }
   .timeline > li .timeline-panel {
     float: left;
-    width: 41%;
+    width: 35%;
     padding: 0 20px 20px 30px;
     text-align: right;
   }
