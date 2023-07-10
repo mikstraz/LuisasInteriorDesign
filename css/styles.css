@@ -10923,9 +10923,11 @@ p {
   font-weight: 700;
   letter-spacing: 0.0625em;
   text-transform: uppercase;
+
 }
 #mainNav .navbar-brand img {
   height: 3.5rem;
+  background-image: url(assets/img/navbar-logo2.png) !important;
 
 }
 #mainNav .navbar-nav .nav-item .nav-link {
