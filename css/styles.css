@@ -686,7 +686,7 @@ progress {
   padding-left: calc(var(--bs-gutter-x) * 1.5);
   margin-right: auto;
   margin-left: auto;
-  color: #CEAF2B !important;
+  color: #576262 !important;
 }
 
 @media (min-width: 576px) {
@@ -3863,7 +3863,7 @@ textarea.form-control-lg {
   padding: var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x);
   font-size: var(--bs-navbar-toggler-font-size);
   line-height: 1;
-  color: #CEAF2B !important;
+  color: #576262 !important;
   background-color: transparent;
   border: var(--bs-border-width) solid var(--bs-navbar-toggler-border-color);
   border-radius: var(--bs-navbar-toggler-border-radius);
@@ -4007,7 +4007,7 @@ textarea.form-control-lg {
   .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: var(--bs-navbar-nav-link-padding-x);
     padding-left: var(--bs-navbar-nav-link-padding-x);
-    color:#CEAF2B !important
+    color:#576262 !important
   }
   .navbar-expand-lg .navbar-nav-scroll {
     overflow: visible;
@@ -4185,7 +4185,7 @@ textarea.form-control-lg {
   --bs-navbar-color: rgba(206, 175, 43, 100) !important;
   --bs-navbar-hover-color: rgba(255, 255, 255, 0.75);
   --bs-navbar-disabled-color: rgba(255, 255, 255, 0.25);
-  --bs-navbar-active-color: #CEAF2B;
+  --bs-navbar-active-color: #576262;
   --bs-navbar-brand-color: #fff;
   --bs-navbar-brand-hover-color: #CEAF2B;
   --bs-navbar-toggler-border-color: rgba(255, 255, 255, 0.1);
@@ -10946,11 +10946,11 @@ p {
 #mainNav .navbar-nav .nav-item .nav-link {
   font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.95rem;
-  color: #CEAF2B;
+  color: #576262;
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #DCBB30;
+  color: #576262;
 }
 
 @media (min-width: 992px) {
