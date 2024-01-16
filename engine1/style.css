@@ -275,15 +275,15 @@
 #wowslider-container1 .ws-title{
 	position:absolute;
 	display:block;
-	font: 3em 'Roboto', sans-serif;
+	font: 4em 'Roboto', sans-serif;
 	bottom: 50px;
 	left: 0px;
 	margin:1.8em 0.75em;
-	color:#000000;
+	color:#576262;
 	z-index: 50;
 	line-height: 1em;
 	font-weight: bold;
-	width: 50%!important;
+	width: 70%!important;
 }
 #wowslider-container1 .ws-title div,#wowslider-container1 .ws-title span{
 	display:inline-block;
