@@ -3,6 +3,9 @@
  *	template Calm
  */
 @import url(https://fonts.googleapis.com/css?family=Roboto&subset=latin,cyrillic-ext,latin-ext,cyrillic,greek-ext,greek,vietnamese);
+#wowslider-container1 .ws_images div style{
+	display: none !important;
+}
 #wowslider-container1 { 
 	display: block;
 	zoom: 1; 
@@ -279,7 +282,7 @@
 	bottom: 50px;
 	left: 0px;
 	margin:1.8em 0.75em;
-	color:#576262;
+	color:#3a4141;
 	z-index: 50;
 	line-height: 1em;
 	font-weight: bold;
